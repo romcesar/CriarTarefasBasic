@@ -1,2 +1,4 @@
 # CriarTarefasBasic
-Projeto com apenas Javascript ,CSS e HTM
+Projeto com apenas Javascript servidor mokado com inserindo tarefas básicas.
+
+CSS, HTML puro.
